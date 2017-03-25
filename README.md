@@ -1,2 +1,2 @@
-# biskup
+# biskupova-klet
 Biskupova klet
